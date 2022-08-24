@@ -1,0 +1,7 @@
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/Taller_eigen.dir
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/edit_cache.dir
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/rebuild_cache.dir
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/list_install_components.dir
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/install.dir
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/install/local.dir
+/home/laura/Documents/HPC_QT/Taller_eigen/Debug/CMakeFiles/install/strip.dir
